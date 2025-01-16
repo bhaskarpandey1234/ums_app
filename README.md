@@ -9,11 +9,6 @@ A modern, full-stack application for managing users, their hobbies, and visualiz
   - [Backend Setup](#backend-setup)
   - [Frontend Setup](#frontend-setup)
   - [Environment Variables](#environment-variables)
-- [API Documentation](#api-documentation)
-- [Project Structure](#project-structure)
-- [Known Issues](#known-issues)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features ✨
 - **CRUD Operations**: Manage users and their hobbies seamlessly.
@@ -26,9 +21,9 @@ A modern, full-stack application for managing users, their hobbies, and visualiz
 - **Frontend Framework**: React (v19)
 - **Language**: TypeScript
 - **Libraries**: react-flow, react-toastify
-- **Styling**: CSS Modules
+- **Styling**: CSS Modules, Tailwind CSS
 - **Backend Framework**: Spring Boot
-- **Language**: Java (v11+)
+- **Language**: Java (v17)
 - **Database**: PostgreSQL
 - **Build Tool**: Maven
 
@@ -37,7 +32,7 @@ A modern, full-stack application for managing users, their hobbies, and visualiz
 ### Prerequisites
 Ensure the following tools are installed:
 - **Node.js**: v18 or higher
-- **Java**: v11 or higher
+- **Java**: v17
 - **PostgreSQL**: Running locally
 - **Maven**
 
